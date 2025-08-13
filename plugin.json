@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "author": "lovebook",
+    "description": "Hello world"
+  },
+  "data": [
+    {
+      "name": "69shuba",
+      "author": "lovebook",
+      "path": "https://raw.githubusercontent.com/lovebook98/leech_story_ext/main/69shuba/69shuba.zip",
+      "version": 1,
+      "source": "https://www.69shuba.com",
+      "icon": "https://raw.githubusercontent.com/lovebook98/leech_story_ext/main/69shuba/icon.png",
+      "description": "Đọc truyện trên trang https://www.69shuba.com"
+    }
+  ]
+}
